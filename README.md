@@ -6,7 +6,7 @@ Front-end Developer
 
 I'm a Front-end Developer who loves researching new knowledge and crafting new interesting things.
 
-* 🌍  I'm based in Ha Noi
+* 🌍  I'm based in HCMC
 * ✉️  You can contact me at [dotuanphog@gmail.com](mailto:dotuanphog@gmail.com)
 * 🧠  I'm learning NextJs, Angular, NestJS
 * 🤝  I'm open to collaborating on an interesting project
